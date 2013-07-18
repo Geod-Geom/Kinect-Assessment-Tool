@@ -16,3 +16,11 @@ In the 2 windows version, the application allows an automatic collimation of the
 The two applications run on both Windows 7 and Windows 8 operative systems.
 The applications can be build using Visual Studio 2010 or Visual Studio 2012.
 
+DEPENDENCIES
+Metanumerics 
+http://metanumerics.codeplex.com/releases/view/93895
+
+Emgu 
+http://sourceforge.net/projects/emgucv/files/?source=navbar
+Note: to avoid the cvInvoke exception the output path must be in the emgu installation folder 
+(for example: C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin))
