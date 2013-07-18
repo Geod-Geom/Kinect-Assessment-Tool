@@ -1,0 +1,49 @@
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\bin\Debug\2 windows.exe
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\bin\Debug\2 windows.pdb
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\bin\Debug\Emgu.CV.dll
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\bin\Debug\Emgu.Util.dll
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\bin\Debug\ZedGraph.dll
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\bin\Debug\Emgu.CV.xml
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\bin\Debug\Emgu.Util.xml
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\obj\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\obj\Debug\WindowCalibrate.baml
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\obj\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\obj\Debug\WindowCalibrate.g.cs
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\obj\Debug\App.g.cs
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\obj\Debug\2 windows_MarkupCompile.cache
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\obj\Debug\2 windows.g.resources
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\obj\Debug\_2_windows.Properties.Resources.resources
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\obj\Debug\2 windows.exe
+C:\Users\Martina\Desktop\Kinect\2 windows\2 windows\obj\Debug\2 windows.pdb
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\2 windows.exe
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\2 windows.pdb
+C:\Users\Roberta\Desktop\Kinect\2 windows\2 windows\obj\Debug\2 windows.exe
+C:\Users\Roberta\Desktop\Kinect\2 windows\2 windows\obj\Debug\2 windows.pdb
+C:\Users\Roberta\Desktop\Kinect\2 windows\2 windows\obj\Debug\2 windows.csprojResolveAssemblyReference.cache
+C:\Users\Roberta\Desktop\Kinect\2 windows\2 windows\obj\Debug\MainWindow.baml
+C:\Users\Roberta\Desktop\Kinect\2 windows\2 windows\obj\Debug\WindowCalibrate.baml
+C:\Users\Roberta\Desktop\Kinect\2 windows\2 windows\obj\Debug\MainWindow.g.cs
+C:\Users\Roberta\Desktop\Kinect\2 windows\2 windows\obj\Debug\WindowCalibrate.g.cs
+C:\Users\Roberta\Desktop\Kinect\2 windows\2 windows\obj\Debug\App.g.cs
+C:\Users\Roberta\Desktop\Kinect\2 windows\2 windows\obj\Debug\2 windows_MarkupCompile.cache
+C:\Users\Roberta\Desktop\Kinect\2 windows\2 windows\obj\Debug\2 windows.g.resources
+C:\Users\Roberta\Desktop\Kinect\2 windows\2 windows\obj\Debug\_2_windows.Properties.Resources.resources
+C:\Users\Roberta\Desktop\Kinect\2 windows\2 windows\obj\Debug\2 windows.csproj.GenerateResource.Cache
+C:\Users\Roberta\Desktop\Programmi per github\2 windows\2 windows\obj\Debug\2 windows.exe
+C:\Users\Roberta\Desktop\Programmi per github\2 windows\2 windows\obj\Debug\2 windows.pdb
+C:\Users\Roberta\Desktop\Programmi per github\2 windows\2 windows\obj\Debug\2 windows.csprojResolveAssemblyReference.cache
+C:\Users\Roberta\Desktop\Programmi per github\2 windows\2 windows\obj\Debug\MainWindow.baml
+C:\Users\Roberta\Desktop\Programmi per github\2 windows\2 windows\obj\Debug\WindowCalibrate.baml
+C:\Users\Roberta\Desktop\Programmi per github\2 windows\2 windows\obj\Debug\MainWindow.g.cs
+C:\Users\Roberta\Desktop\Programmi per github\2 windows\2 windows\obj\Debug\WindowCalibrate.g.cs
+C:\Users\Roberta\Desktop\Programmi per github\2 windows\2 windows\obj\Debug\App.g.cs
+C:\Users\Roberta\Desktop\Programmi per github\2 windows\2 windows\obj\Debug\2 windows_MarkupCompile.cache
+C:\Users\Roberta\Desktop\Programmi per github\2 windows\2 windows\obj\Debug\2 windows.g.resources
+C:\Users\Roberta\Desktop\Programmi per github\2 windows\2 windows\obj\Debug\_2_windows.Properties.Resources.resources
+C:\Users\Roberta\Desktop\Programmi per github\2 windows\2 windows\obj\Debug\2 windows.csproj.GenerateResource.Cache

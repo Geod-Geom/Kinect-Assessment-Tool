@@ -1,0 +1,49 @@
+﻿<!--/*
+* The information in this file is
+* Copyright(c) 2013, Andrea Nascetti andrea.nascetti@uniroma1.it, Roberta Ravanelli robertar88@hotmail.it
+* and is subject to the terms and conditions of the
+* GNU GPL License v3
+* The license text is available from
+* http://www.gnu.org/licenses/gpl-3.0.txt
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/-->
+    
+    
+    <Window x:Class="_2_windows.WindowCalibrate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WindowCalibrate" Height="1150" Width="1800" Closing="Window_Closing">
+    <Grid>
+        <CheckBox Name="checkBox2" Content="Compute coordinates red points" Height="24" HorizontalAlignment="Left" Margin="200
+                  ,30,0,0"  VerticalAlignment="Top" Background="Red" Width="230" Foreground="Red" />
+               
+        
+        <Grid Name="Border" Grid.Row="1" DataContext="{Binding}">
+            <Popup Name="floatingTip" AllowsTransparency="True" Placement="Relative" PlacementTarget="{Binding ElementName=ColorImageElement}" Opened="floatingTip_Opened">
+                <Grid Background="YellowGreen" Name="CornTextBlock">
+                    <TextBlock  Name="textBlock6" Text="TextBlock"  />
+                </Grid >
+            </Popup>
+            <Border BorderBrush="Silver" BorderThickness="1" Height="959" HorizontalAlignment="Left" Margin="100,90,0,0" Name="border1" VerticalAlignment="Top" Width="1279" ClipToBounds="True">
+                <Canvas Height="959" HorizontalAlignment="Left" Margin="0,0,0,0" Name="canvas1" VerticalAlignment="Top" Width="1279" >
+                    <Image Height="959" HorizontalAlignment="Left" Margin="0,0,0,0" Name="ColorImageElement" Stretch="Fill" VerticalAlignment="Top" Width="1279" MouseLeftButtonUp="ColorImageElement_MouseLeftButtonUp_1" MouseWheel="ColorImageElement_MouseWheel" />
+                </Canvas>
+            </Border>
+            <TextBox Name="Rows" Text="6" HorizontalAlignment="Left" Margin="739,20,0,0" Width="23" VerticalAlignment="Top" Height="23" AllowDrop="False" />
+            <TextBox Name="Columns" Text="9" Height="23" HorizontalAlignment="Left" Margin="739,46,0,0" VerticalAlignment="Top" Width="23" AllowDrop="False" />
+            <TextBlock Height="23" HorizontalAlignment="Left" Margin="702,20,0,0" Name="textBlock1" Text="Rows" VerticalAlignment="Top" Width="31" />
+            <TextBlock Height="23" HorizontalAlignment="Left" Margin="685,46,0,0" Name="textBlock2" Text="Columns" VerticalAlignment="Top" Width="48"/>
+            <Button Content="Capture grid" Height="52" HorizontalAlignment="Left" Margin="1011,20,0,0" Name="button1" VerticalAlignment="Top" Width="87" />
+            <Button Content="Calibration" Height="52" HorizontalAlignment="Left" Margin="1137,20,0,0" Name="button2" VerticalAlignment="Top" Width="115" />
+            <TextBlock Height="166" HorizontalAlignment="Left" Margin="1414,275,0,0" Name="textBlock3" Text="Accelerometer" VerticalAlignment="Top" Width="328" />
+            <TextBlock Height="14" HorizontalAlignment="Left" Margin="462,30,0,0" Name="textBlock4" Text="Nr. captured collimations" VerticalAlignment="Top" />
+            <Button Name="DelEll" Content="Delete points" Height="50" HorizontalAlignment="Left" Margin="1496,485,0,0" VerticalAlignment="Top" Width="150" Click="DelEll_Click_1" />
+            <TextBox Name="Step" Text="29" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="888,46,0,0" Width="34" AllowDrop="False" />
+            <TextBlock Height="23" HorizontalAlignment="Left" Margin="797,49,0,0" Name="textBlock5" Text="Grid step (mm)" VerticalAlignment="Top" Width="85" />
+            <TextBox Name="Collimations" Text="15" Height="23" HorizontalAlignment="Left" Margin="888,17,0,0" VerticalAlignment="Top" Width="34" AllowDrop="False" />
+            <TextBlock Height="23" HorizontalAlignment="Left" Margin="797,21,0,0" Name="textBlock7" Text="Collimations" VerticalAlignment="Top" />
+            <TextBlock Text="Calibration parameters" Height="156" HorizontalAlignment="Left" Margin="1482,665,0,0" Name="textBlock8" VerticalAlignment="Top" Width="223" />
+            <TextBlock Name="textBlock10" Height="178" HorizontalAlignment="Left" Margin="1414,46,0,0" Text="RISULTATI QUATERNIONI" VerticalAlignment="Top" Width="249" />
+        </Grid>
+    </Grid>
+</Window>
