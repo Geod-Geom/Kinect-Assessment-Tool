@@ -1,0 +1,26 @@
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\bin\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\bin\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Polling 2(risoluzione RGB doppia)\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling 2(risoluzione RGB doppia)\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Polling 2(risoluzione RGB doppia)\Polling\bin\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling 2(risoluzione RGB doppia)\Polling\bin\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Polling 2(risoluzione RGB doppia)\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Polling 2(risoluzione RGB doppia)\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\Polling 2(risoluzione RGB doppia)\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\Polling 2(risoluzione RGB doppia)\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Martina\Desktop\Polling 2(risoluzione RGB doppia)\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Martina\Desktop\Polling 2(risoluzione RGB doppia)\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Martina\Desktop\Polling 2(risoluzione RGB doppia)\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Martina\Desktop\Polling 2(risoluzione RGB doppia)\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\Polling 2(risoluzione RGB doppia)\Polling\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,125 @@
+C:\Users\Martina\Desktop\Esempi kinect\Polling\Polling\bin\Debug\Polling.exe
+C:\Users\Martina\Desktop\Esempi kinect\Polling\Polling\bin\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Esempi kinect\Polling\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Esempi kinect\Polling\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\Esempi kinect\Polling\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\Esempi kinect\Polling\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Martina\Desktop\Esempi kinect\Polling\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Martina\Desktop\Esempi kinect\Polling\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Martina\Desktop\Esempi kinect\Polling\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Martina\Desktop\Esempi kinect\Polling\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\Esempi kinect\Polling\Polling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Martina\Desktop\Esempi kinect\Polling\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\Esempi kinect\Polling\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Esempi kinect\Polling2\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\Esempi kinect\Polling2\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Esempi kinect\Polling2\Polling\bin\Debug\Polling.exe
+C:\Users\Martina\Desktop\Esempi kinect\Polling2\Polling\bin\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Esempi kinect\Polling2\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Esempi kinect\Polling2\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\Esempi kinect\Polling2\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\Esempi kinect\Polling2\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Martina\Desktop\Esempi kinect\Polling2\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Martina\Desktop\Esempi kinect\Polling2\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Martina\Desktop\Esempi kinect\Polling2\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Martina\Desktop\Esempi kinect\Polling2\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\Esempi kinect\Polling2\Polling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Martina\Desktop\Polling2\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling2\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Polling2\Polling\bin\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling2\Polling\bin\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Polling2\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Polling2\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\Polling2\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\Polling2\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Martina\Desktop\Polling2\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Martina\Desktop\Polling2\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Martina\Desktop\Polling2\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Martina\Desktop\Polling2\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\Polling2\Polling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Mario\Desktop\Polling3\Polling\obj\x86\Debug\Polling.exe
+C:\Documents and Settings\Mario\Desktop\Polling3\Polling\obj\x86\Debug\Polling.pdb
+C:\Documents and Settings\Mario\Desktop\Polling3\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mario\Desktop\Polling3\Polling\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Mario\Desktop\Polling3\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Mario\Desktop\Polling3\Polling\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Mario\Desktop\Polling3\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Documents and Settings\Mario\Desktop\Polling3\Polling\obj\x86\Debug\Polling.g.resources
+C:\Documents and Settings\Mario\Desktop\Polling3\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Documents and Settings\Mario\Desktop\Polling3\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Mario\Desktop\Polling3\Polling\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ROBERTA\TESI usb\Esempi kinect\Esempi da i programmer\Polling 4\Polling\obj\x86\Debug\Polling.exe
+F:\ROBERTA\TESI usb\Esempi kinect\Esempi da i programmer\Polling 4\Polling\obj\x86\Debug\Polling.pdb
+F:\ROBERTA\TESI usb\Esempi kinect\Esempi da i programmer\Polling 4\Polling\bin\Debug\Polling.exe
+F:\ROBERTA\TESI usb\Esempi kinect\Esempi da i programmer\Polling 4\Polling\bin\Debug\Polling.pdb
+F:\ROBERTA\TESI usb\Esempi kinect\Esempi da i programmer\Polling 4\Polling\obj\x86\Debug\Polling.csprojResolveAssemblyReference.cache
+F:\ROBERTA\TESI usb\Esempi kinect\Esempi da i programmer\Polling 4\Polling\obj\x86\Debug\MainWindow.baml
+F:\ROBERTA\TESI usb\Esempi kinect\Esempi da i programmer\Polling 4\Polling\obj\x86\Debug\MainWindow.g.cs
+F:\ROBERTA\TESI usb\Esempi kinect\Esempi da i programmer\Polling 4\Polling\obj\x86\Debug\App.g.cs
+F:\ROBERTA\TESI usb\Esempi kinect\Esempi da i programmer\Polling 4\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+F:\ROBERTA\TESI usb\Esempi kinect\Esempi da i programmer\Polling 4\Polling\obj\x86\Debug\Polling.g.resources
+F:\ROBERTA\TESI usb\Esempi kinect\Esempi da i programmer\Polling 4\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+F:\ROBERTA\TESI usb\Esempi kinect\Esempi da i programmer\Polling 4\Polling\obj\x86\Debug\Polling.csproj.GenerateResource.Cache
+C:\Users\Roberta\Desktop\Polling 4\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Roberta\Desktop\Polling 4\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\Polling 4\Polling\bin\Debug\Polling.exe
+C:\Users\Roberta\Desktop\Polling 4\Polling\bin\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\Polling 4\Polling\obj\x86\Debug\Polling.csprojResolveAssemblyReference.cache
+C:\Users\Roberta\Desktop\Polling 4\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Roberta\Desktop\Polling 4\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Roberta\Desktop\Polling 4\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Roberta\Desktop\Polling 4\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Roberta\Desktop\Polling 4\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Roberta\Desktop\Polling 4\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Roberta\Desktop\Polling 4\Polling\obj\x86\Debug\Polling.csproj.GenerateResource.Cache
+C:\Users\Roberta\Desktop\Polling ufficiale\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Roberta\Desktop\Polling ufficiale\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\Polling ufficiale\Polling\bin\Debug\Polling.exe
+C:\Users\Roberta\Desktop\Polling ufficiale\Polling\bin\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\Polling ufficiale\Polling\obj\x86\Debug\Polling.csprojResolveAssemblyReference.cache
+C:\Users\Roberta\Desktop\Polling ufficiale\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Roberta\Desktop\Polling ufficiale\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Roberta\Desktop\Polling ufficiale\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Roberta\Desktop\Polling ufficiale\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Roberta\Desktop\Polling ufficiale\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Roberta\Desktop\Polling ufficiale\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Roberta\Desktop\Polling ufficiale\Polling\obj\x86\Debug\Polling.csproj.GenerateResource.Cache
+C:\Users\Martina\Desktop\Polling ufficiale\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling ufficiale\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Polling ufficiale\Polling\bin\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling ufficiale\Polling\bin\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Polling ufficiale\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Polling ufficiale\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\Polling ufficiale\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\Polling ufficiale\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Martina\Desktop\Polling ufficiale\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Martina\Desktop\Polling ufficiale\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Martina\Desktop\Polling ufficiale\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Martina\Desktop\Polling ufficiale\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\Polling ufficiale\Polling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Martina\Desktop\Polling 2\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling 2\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Polling 2\Polling\bin\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling 2\Polling\bin\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Polling 2\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Polling 2\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\Polling 2\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\Polling 2\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Martina\Desktop\Polling 2\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Martina\Desktop\Polling 2\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Martina\Desktop\Polling 2\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Martina\Desktop\Polling 2\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\Polling 2\Polling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\bin\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\bin\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\Polling 2(il mapper non funziomna\Polling\obj\x86\Debug\GenerateResource.write.1.tlog

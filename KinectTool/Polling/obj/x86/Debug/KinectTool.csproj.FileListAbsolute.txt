@@ -1,0 +1,115 @@
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\bin\Debug\Polling.exe
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\bin\Debug\Polling.pdb
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\bin\Debug\Polling.exe
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\bin\Debug\Polling.pdb
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Martina\Desktop\KinectTool\Polling\bin\Debug\Polling.exe
+C:\Users\Martina\Desktop\KinectTool\Polling\bin\Debug\Polling.pdb
+C:\Users\Martina\Desktop\KinectTool\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\KinectTool\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\KinectTool\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\KinectTool\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Martina\Desktop\KinectTool\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Martina\Desktop\KinectTool\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Martina\Desktop\KinectTool\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Martina\Desktop\KinectTool\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\KinectTool\Polling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Martina\Desktop\KinectTool\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\KinectTool\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\TESI\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Roberta\Desktop\TESI\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\KinectTool\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\KinectTool\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Roberta\Desktop\KinectTool\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\KinectTool\Polling\bin\Debug\Polling.exe
+C:\Users\Roberta\Desktop\KinectTool\Polling\bin\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\KinectTool\Polling\obj\x86\Debug\KinectTool.csprojResolveAssemblyReference.cache
+C:\Users\Roberta\Desktop\KinectTool\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Roberta\Desktop\KinectTool\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Roberta\Desktop\KinectTool\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Roberta\Desktop\KinectTool\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Roberta\Desktop\KinectTool\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Roberta\Desktop\KinectTool\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Roberta\Desktop\KinectTool\Polling\obj\x86\Debug\KinectTool.csproj.GenerateResource.Cache
+C:\Users\Roberta\Desktop\KinectTool2\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Roberta\Desktop\KinectTool2\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\KinectTool2\Polling\bin\Debug\Polling.exe
+C:\Users\Roberta\Desktop\KinectTool2\Polling\bin\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\KinectTool2\Polling\obj\x86\Debug\KinectTool.csprojResolveAssemblyReference.cache
+C:\Users\Roberta\Desktop\KinectTool2\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Roberta\Desktop\KinectTool2\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Roberta\Desktop\KinectTool2\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Roberta\Desktop\KinectTool2\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Roberta\Desktop\KinectTool2\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Roberta\Desktop\KinectTool2\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Roberta\Desktop\KinectTool2\Polling\obj\x86\Debug\KinectTool.csproj.GenerateResource.Cache
+D:\Roberta\Programmi\KinectTool\Polling\obj\x86\Debug\Polling.exe
+D:\Roberta\Programmi\KinectTool\Polling\obj\x86\Debug\Polling.pdb
+D:\Roberta\Programmi\KinectTool\Polling\bin\Debug\Polling.exe
+D:\Roberta\Programmi\KinectTool\Polling\bin\Debug\Polling.pdb
+D:\Roberta\Programmi\KinectTool\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Roberta\Programmi\KinectTool\Polling\obj\x86\Debug\MainWindow.baml
+D:\Roberta\Programmi\KinectTool\Polling\obj\x86\Debug\MainWindow.g.cs
+D:\Roberta\Programmi\KinectTool\Polling\obj\x86\Debug\App.g.cs
+D:\Roberta\Programmi\KinectTool\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+D:\Roberta\Programmi\KinectTool\Polling\obj\x86\Debug\Polling.g.resources
+D:\Roberta\Programmi\KinectTool\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+D:\Roberta\Programmi\KinectTool\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Roberta\Programmi\KinectTool\Polling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Martina\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Kinect\KinectTool\Polling\bin\Debug\Polling.exe
+C:\Users\Martina\Desktop\Kinect\KinectTool\Polling\bin\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Martina\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Martina\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Martina\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Martina\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Roberta\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Roberta\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\Kinect\KinectTool\Polling\bin\Debug\Polling.exe
+C:\Users\Roberta\Desktop\Kinect\KinectTool\Polling\bin\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Roberta\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Roberta\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Roberta\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Roberta\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Roberta\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Roberta\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\KinectTool.csprojResolveAssemblyReference.cache
+C:\Users\Roberta\Desktop\Kinect\KinectTool\Polling\obj\x86\Debug\KinectTool.csproj.GenerateResource.Cache
+C:\Users\Roberta\Desktop\Programmi per github\KinectTool\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Roberta\Desktop\Programmi per github\KinectTool\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\Programmi per github\KinectTool\Polling\bin\Debug\Polling.exe
+C:\Users\Roberta\Desktop\Programmi per github\KinectTool\Polling\bin\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\Programmi per github\KinectTool\Polling\obj\x86\Debug\KinectTool.csprojResolveAssemblyReference.cache
+C:\Users\Roberta\Desktop\Programmi per github\KinectTool\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Roberta\Desktop\Programmi per github\KinectTool\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Roberta\Desktop\Programmi per github\KinectTool\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Roberta\Desktop\Programmi per github\KinectTool\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Roberta\Desktop\Programmi per github\KinectTool\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Roberta\Desktop\Programmi per github\KinectTool\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Roberta\Desktop\Programmi per github\KinectTool\Polling\obj\x86\Debug\KinectTool.csproj.GenerateResource.Cache

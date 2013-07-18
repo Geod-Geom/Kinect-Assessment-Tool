@@ -1,0 +1,29 @@
+C:\Users\Martina\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\bin\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\bin\Debug\Polling.pdb
+C:\Users\Martina\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Martina\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Martina\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Martina\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Martina\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Martina\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Martina\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martina\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Martina\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Roberta\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\bin\Debug\Polling.exe
+C:\Users\Roberta\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\bin\Debug\Polling.pdb
+C:\Users\Roberta\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling RGB doppia risoluzione ZoomAggiustato.csprojResolveAssemblyReference.cache
+C:\Users\Roberta\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\MainWindow.baml
+C:\Users\Roberta\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Roberta\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\App.g.cs
+C:\Users\Roberta\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling_MarkupCompile.cache
+C:\Users\Roberta\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.g.resources
+C:\Users\Roberta\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.Properties.Resources.resources
+C:\Users\Roberta\Desktop\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling RGB doppia risoluzione ZoomAggiustato.csproj.GenerateResource.Cache
+C:\Users\Martina\Desktop\Esempi kinect\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\Esempi kinect\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.pdb
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.exe
+C:\Users\Martina\Desktop\KINECT\Programmi miei\PROGRAMMI UFFICIALI\Zoom corretto\Polling risoluzione RGB doppiaZoomAggiustato\Polling\obj\x86\Debug\Polling.pdb
